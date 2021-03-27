@@ -8,13 +8,13 @@ intro_content: >
 intro_actions:
   - label: Dierenartsen
     url: '/dierenartsen'
-    style: secondary
+    style: primary
   - label: Fokkers
     url: /fokkers
-    style: secondary
+    style: primary
   - label: Ik zoek een pup
     url: /klanten
-    style: primary
+    style: secondary
 has_more_link: true
 more_link_text: Lees Verder
 layout: landing
