@@ -5,7 +5,7 @@
     <div class="inner-md">
       {{ if $.Params.intro_content }}
       <div class="intro-text">
-        {{ partial "markdownify-block" $.Params.intro_content }}
+        {{ partial "markdownify-block" $.Params.intro_content | safeHTML }}
       </div>
       {{ end }}
       {{ if $.Params.intro_actions }}
