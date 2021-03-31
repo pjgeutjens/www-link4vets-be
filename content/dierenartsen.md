@@ -12,6 +12,9 @@ intro_actions:
 - label: Contact
   url: /contact
   style: secondary
+- label: Handleiding
+  url: /manuals/Handleiding_Link4Vets_Dierenarts.pdf
+  style: secondary
 has_more_link: true
 more_link_text: Lees Verder
 layout: home
