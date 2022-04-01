@@ -7,7 +7,7 @@ intro_content: >
   wil de rol van de dierenarts in het aankoopproces van een puppy versterken.
 intro_actions:
 - label: Puppy database
-  url: 'https://nestjes.link4vets.be'
+  url: 'https://browser.link4vets.be'
   style: primary
 - label: Contact
   url: /contact
