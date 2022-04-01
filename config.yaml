@@ -6,7 +6,7 @@ params:
   palette: green
   header:
     title: Link4Vets
-    logo_img: images/l4vlogolong.jpg
+    logo_img: images/logo40cross.png
     logo_img_alt: Link4Vets Logo
     has_nav: true
     nav_links:
@@ -46,7 +46,7 @@ params:
       Schrijf je in voor onze nieuwsbrief en ontvang maandelijks de
       belangrijkste updates over Link4Vets.
     subscribe_action: /subscribe-success
-  favicon: images/l4vlogo.jpg
+  favicon: images/favicon.ico
 taxonomies:
   stub: stub
 disableKinds:
